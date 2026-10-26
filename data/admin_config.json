@@ -1,0 +1,8 @@
+{
+  "username": "admin",
+  "email": "harshalibhamare729@gmail.com",
+  "passwordHash": "57264336d2c303d49f77cfb15cd78f97a52a3cac14720b261791a13e4170aac403ffed7b753e0db1a4f34f82a6d51c5253e4be731f28f878775b3d1171709e49",
+  "salt": "15578f999ae5192d3ef9495fbecf4122",
+  "isDefaultPassword": true,
+  "updatedAt": "2026-10-26T10:45:14.049Z"
+}
